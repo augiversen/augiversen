@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my page! 👋
+- 👨‍🎓 ➡ 👨‍💻 Rising senior at [UConn](https://www.cse.uconn.edu/)
+- Currently:
+  - Working on my bot, [tsuki](https://github.com/augiversen/tsuki)
+  - after a year abroad at [Waseda University](https://www.waseda.jp/top/en/)
+  - Staying home!
 
 <!--
 **augiversen/augiversen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
