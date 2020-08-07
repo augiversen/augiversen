@@ -2,7 +2,7 @@
 - 👨‍🎓 ➡ 👨‍💻 Rising senior at [UConn](https://www.cse.uconn.edu/)
 - Currently:
   - Working on my bot, [tsuki](https://github.com/augiversen/tsuki)
-  - after a year abroad at [Waseda University](https://www.waseda.jp/top/en/)
+  - Brushing up on my coding practices a bit after a year abroad at [Waseda University](https://www.waseda.jp/top/en/)
   - Staying home!
 
 <!--
