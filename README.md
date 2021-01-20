@@ -1,8 +1,8 @@
 ### Welcome to my page! 👋
-- 👨‍🎓 ➡ 👨‍💻 Rising senior at [UConn](https://www.cse.uconn.edu/)
+- 👨‍🎓 ➡ 👨‍💻 Senior at [UConn](https://www.cse.uconn.edu/)
 - Currently:
-  - Working on my bot, [tsuki](https://github.com/augiversen/tsuki)
-  - Brushing up on my coding practices a bit after a year abroad at [Waseda University](https://www.waseda.jp/top/en/)
+  - Working on my [senior project](https://www.cse.uconn.edu/undergraduate/senior-design-projects/) & [thesis.](https://honors.uconn.edu/thesis-project/)
+  - Looking for a full time SWE or game industry job!
   - Staying home!
 
 <!--
