@@ -1,7 +1,7 @@
 ### Welcome to my page! 👋
 - 👨‍🎓 ➡ 👨‍💻 Senior at [UConn](https://www.cse.uconn.edu/)
 - Currently:
-  - Working on my [senior project](https://www.cse.uconn.edu/undergraduate/senior-design-projects/) & [thesis.](https://honors.uconn.edu/thesis-project/)
+  - Working on my [senior project](https://www.cse.uconn.edu/undergraduate/senior-design-projects/) and taking my last semester of classes.
   - Looking for a full time SWE or game industry job!
   - Staying home!
 
